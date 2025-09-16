@@ -42,6 +42,9 @@
                 color: rgb(129, 141, 179);
                 font-family: arial;
             }
+            main #album #photo img {
+                width: 400px;
+            }
 
             table {
                 margin-top: 35px;
@@ -87,4 +90,3 @@
                 color: rgb(211, 218, 240);
                 font-w
             }
-            
